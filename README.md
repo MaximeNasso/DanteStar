@@ -3,7 +3,7 @@
 * First year epitech project
 * Lasts 4 Weeks
 * Grade : 100%
-* Group : Maxime Nasso | Emmanuel Lena
+* Group : [Maxime Nasso](https://github.com/MaximeNasso) | [Emmanuel Lena](https://github.com/ScihaproQ)
 
 - - -
 
