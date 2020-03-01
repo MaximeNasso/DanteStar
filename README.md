@@ -61,7 +61,7 @@ If the perfect flag is present, a perfect maze will be generated.
 
 In the bonus file, you can run the solver and the generator in graphical version.\
 **You need to compile the source files using ```make``` before trying to execute the binaries.**\
-**You need to have the SDL and SCFML libraries in your environment**
+**You need to have the SDL and CSFM libraries in your environment**
 
 ### Generator
 
